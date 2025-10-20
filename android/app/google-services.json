@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823326581706",
+    "project_id": "test-project-b3c5f",
+    "storage_bucket": "test-project-b3c5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823326581706:android:bab6efd3c394bab9776533",
+        "android_client_info": {
+          "package_name": "com.yasirali.ecomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLnoDIiI9LBxBZyTHPXtfzq_SSzMZuPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
